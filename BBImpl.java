@@ -15,8 +15,8 @@ import java.io.*;
 
 public class BBImpl extends BalanceBoardAdapter
 {   
-    private BalanceBoard board;
     private static JFrame graphFrame;
+    private BalanceBoard board;
     private static JPanel graph;
     private static double massX;
     private static double massY;
